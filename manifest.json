@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Quran Random Verse",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png"
+    }
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["https://api.alquran.cloud/"],
+  "icons": {
+    "16": "icon16.png"
+  }
+}

@@ -15,7 +15,11 @@ Screenshots:
 
 ![alt text](2.png)
 
-To Use:
+## To Use:
+### Option 1:
+Install it from the Chrome Webstore using ![this link](https://chrome.google.com/webstore/detail/quran-random-verse/dmpmidnofffohoaabegomeffphdalddh)  
+
+### Option 2:
 1. On Google Chrome go to chrome://extensions/
 2. Turn on the toggle for *Developer Mode* in the top right corner.
 3. Click *Load Unpacked* in the top left corner and load this folder.

@@ -17,7 +17,7 @@ Screenshots:
 
 ## To Use:
 ### Option 1:
-Install it from the Chrome Webstore using ![this link](https://chrome.google.com/webstore/detail/quran-random-verse/dmpmidnofffohoaabegomeffphdalddh)  
+Install it from the Chrome Webstore using [this link](https://chrome.google.com/webstore/detail/quran-random-verse/dmpmidnofffohoaabegomeffphdalddh)  
 
 ### Option 2:
 1. On Google Chrome go to chrome://extensions/
